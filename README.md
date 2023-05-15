@@ -7,4 +7,4 @@ Delivery of Death is a novel-rpg game in which you will play as an assassin rat,
 Little "Go Plane" clone. Work in progress.
 
 ## [Armello Concept Project (working title)](https://github.com/MountainInn/ArmelloConceptProject)
-Turn based online strategy game
+Turn based online strategy game. Unfinished and abandoned.
