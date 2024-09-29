@@ -1,19 +1,28 @@
-# Portfolio
+# Обо мне
 
-## [Delivery of Death](https://ldjam.com/events/ludum-dare/53/delivery-of-death)
-[<img src="./DeliveryOfDeath.JPG" width="700"/>](https://github.com/MountainInn/Portfolio/blob/main/DeliveryOfDeath.JPG?raw=true)
+# Мои проекты
 
-Delivery of Death is a novel-rpg game in which you will play as an assassin rat, whose job is to deliver death to whom it may concern. Game takes place in a fantasy animal kingdom, ruled by the undying Lion King. Imagine his suffering! Take your time and explore different locations of the kingdom, talk to npc and make your choices, make your path to the King and deliver him Death eventually. 
+|IdleRpgFighter *Дата* | Delivery of Death *Дата* |
+|----|---|
+||[<img src="./DeliveryOfDeath.JPG" width="700"/>](https://github.com/MountainInn/Portfolio/blob/main/DeliveryOfDeath.JPG?raw=true)|
+|*Описание айдла* | Визуальная новелла с элементами рпг. Сделана командой из 7 человек за 3 дня для гейм-джема Ludum Dare 53. В этом проекте большую часть кода написал я. Самая выдающаяся фича это кастомные ноды на пакете Visual Scripting, в которые геймдизайнеры переносили сценарий игры. |
+|Ссылка на Гитхаб: https://github.com/MountainInn/IdleRpgFighter_Showcase/tree/main | Ссылка на Ludum Dare, с плэером: https://ldjam.com/events/ludum-dare/53/delivery-of-death |
 
-## [TestRunner](https://github.com/MountainInn/TestRunner)
-[<img src="./TestRunner.JPG" width="300"/>](https://github.com/MountainInn/Portfolio/blob/main/TestRunner.JPG?raw)
+| ﻿Нубик против Прешельцев *Дата* | Plunger Hero *Дата* |
+|--|--|
+|*Гифка*| *Гифка*|
+|Проект для Яндекс.Игр в котором я реализовал казуальный раннер со стрельбой. Работал с SDK яндекса чтобы настроить показ рекламы, облачные сохранения и локализацию на 3 языка. | Клон успешной игры Plunger Hero |
+|Ссылка на Яндекс игры: https://yandex.com/games/app/362612  | Ссылка на Яндекс игры: |
+|Ссылка на Гитхаб: ываыва| Ссылка на Гитхаб: |
 
-A test task to show my knowledge of Splines. 
+| Раннер с рисованием *Дата* | Простой раннер *Дата* | Клон Go Plane *Дата* |
+|--|--|--|
+| *Гифка* |*Гифка*| *Гифка*|
+| *Описание* | *Описание* | *Описание* |
+| Ссылка на гитхаб: | Ссылка на гитхаб: https://github.com/MountainInn/TestRunner | |
 
-## [Ace Plane](https://github.com/MountainInn/Ace-Plane)
-[<img src="./AcePlane.JPG" width="300"/>](https://github.com/MountainInn/Portfolio/blob/main/AcePlane.JPG?raw=true)
-
-Little "Go Plane" clone. Work in progress.
-
-## [Armello Concept Project (working title)](https://github.com/MountainInn/ArmelloConceptProject)
-Turn based online strategy game. Unfinished and abandoned.
+|Пошаговая онлайн стратегия *Дата*|
+|--|
+|*Гифка*|
+|*Описание*|
+|Ссылка на гитхаб: https://github.com/MountainInn/ArmelloConceptProject |
