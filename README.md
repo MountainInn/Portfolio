@@ -20,6 +20,7 @@
 |Ссылка на Яндекс игры: https://yandex.com/games/app/362612  | Ссылка на Яндекс игры: |
 |Ссылка на Гитхаб: https://github.com/MountainInn/Noob-vs-Planetians| Ссылка на Гитхаб: |
 || Ссылка на оригинал: https://play.google.com/store/apps/details?id=com.aa.lockemsandman&hl=en |
+
 | Раннер с рисованием - Май 2024 | Простой раннер - Май 2023 |
 |--|--|
 |![Draw-And-Run-Resized_Color](https://github.com/user-attachments/assets/ee0e7831-27bd-4025-8803-f5bcf2fb58fe)|![TestRunner-64-dpi_best-encoder](https://github.com/user-attachments/assets/de7050ae-ec5b-46f9-a355-59c7090fc2b7) |
@@ -29,7 +30,7 @@
 | Клон Go Plane - Май 2023 |
 |--|
 |![ace-plane--first-half](https://github.com/user-attachments/assets/902cd2d3-5edb-4210-9eae-3d06773de994)|
-| Небольшой клон Go Plane |
+| В этой игре нужно управлять самолетиком и уклоняться от самонаводящихся ракет.  |
 | Ссылка на оригинал: https://play.google.com/store/apps/details?id=io.voodoo.goplane1&hl=ru |
 
 |Пошаговая онлайн стратегия - Май 2023 |
